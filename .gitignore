@@ -2,3 +2,4 @@
 .vscode
 datacore/__pycache__
 dataconv/__pycache__
+datacore/migrations/__pycache__
