@@ -1,2 +1,4 @@
 .env
 .vscode
+datacore/__pycache__
+dataconv/__pycache__
